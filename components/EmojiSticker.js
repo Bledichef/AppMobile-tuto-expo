@@ -37,8 +37,7 @@ export default function EmojiSticker({ imageSize, stickerSource }) {
         },
       ],
     };
-  });
-  
+  });  
 
 
   return (

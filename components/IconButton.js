@@ -10,6 +10,7 @@ export default function IconButton({ icon, label, onPress }) {
   );
 }
 
+
 const styles = StyleSheet.create({
   iconButton: {
     justifyContent: 'center',

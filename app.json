@@ -1,4 +1,5 @@
 {
+  
   "expo": {
     "name": "App",
     "slug": "tuto-app",
@@ -30,4 +31,5 @@
     },
     "owner": "guillaumehap-org"
   }
+
 }

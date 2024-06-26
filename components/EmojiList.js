@@ -30,6 +30,7 @@ export default function EmojiList({ onSelect, onCloseModal }) {
   );
 }
 
+
 const styles = StyleSheet.create({
   listContainer: {
     borderTopRightRadius: 10,
